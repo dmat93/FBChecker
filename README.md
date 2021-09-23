@@ -13,12 +13,6 @@ You get some useful information and an HTML-OUTPUT page that you can read to see
 
 Some characters are not allowed
 
-## Warning
-My intentions are good, I created this simple script only to verify, I don't want to make **BRUTE FORCE** attacks to Facebook Accounts. Anyway if the account has Double-Chceck (via SMS) you can only knows the password of the Facebook Account.
-
-Good Luck!
-
-
-##### Authors
-
-[Mattia Quadrini](mailto:mattiaquadrini@gmail.com)
+## Note
+The only scope of the software is to test the security of a Facebook account, then it is out of the scope of this project the hacking of the same.
+In fact, if the account has enabled a Double Factor Safety (SMS, Code Generator, ...) you can only knows the password of the Facebook Account without log in.
